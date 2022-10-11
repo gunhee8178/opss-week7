@@ -33,3 +33,4 @@ switch(command){
 }
 
 console.log(result);
+// end
