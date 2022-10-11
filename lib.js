@@ -7,7 +7,7 @@ function avg(numbers){
 }
 
 function max(numbers){
-    return numbers.reduce( (max, curr) => (max > curr ? max : curr), number[0] );
+    return numbers.reduce( (max, curr) => (max > curr ? max : curr), numbers[0] );
 }
 
 module.exports = {
