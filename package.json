@@ -1,0 +1,22 @@
+{
+  "name": "opss-week7",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunhee8178/opss-week7.git"
+  },
+  "bin": {
+    "bin": "opss-week7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunhee8178/opss-week7/issues"
+  },
+  "homepage": "https://github.com/gunhee8178/opss-week7#readme",
+  "description": ""
+}
